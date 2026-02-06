@@ -1,7 +1,6 @@
 # IoT Monitor Dashboard
 # Aplicação web completa para coleta, monitoramento e visualização de dados de dispositivos IoT, com dashboard em tempo real, gerenciamento de dispositivos, histórico de leituras e sistema de alertas configuráveis.
 
-# --------------------------------------------------
 # Funcionalidades Principais
 
 # 1. Dashboard em Tempo Real
@@ -28,7 +27,6 @@
 # - Endpoint público para envio de leituras: /api/trpc/iot.submitReading
 # - Validação automática de dados recebidos
 
-# --------------------------------------------------
 # Arquitetura Técnica
 
 # Stack de Tecnologia
@@ -67,7 +65,6 @@
 # DELETE /api/trpc/alerts.deleteConfig
 # GET    /api/trpc/alerts.history?limit=100
 
-# --------------------------------------------------
 # Instalação e Configuração
 
 # Pré-requisitos
